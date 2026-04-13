@@ -49,7 +49,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.douglassantana.design_system"
+    namespace = "io.github.douglassantana.design_system"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
